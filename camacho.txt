@@ -4,7 +4,7 @@ Planificación y Toma de Decisiones en IA; dificultad 1; 4 créditos; evaluació
 ⁠Proyecto Final de Ciencia de la Computación II; dificultad 5; 4 créditos; evaluación en 40 días.
 
 2. DISPONIBILIDAD
-Lunes 4 h, Martes 4 h, Miércoles 2 h, Jueves 2 h, Vienes 2 h, Sábado 15 h, Domingo 15 h
+Lunes 4 h, Martes 4 h, Miércoles 2 h, Jueves 2 h, Viernes 2 h, Sábado 15 h, Domingo 15 h
 
 3. PRIORIDADES
 Proyecto Final de Ciencia de la Computación II
